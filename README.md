@@ -9,3 +9,6 @@
 - 안홍섭 ([https://github.com/GitSeob](https://github.com/GitSeob))
 - 김광현 ([https://github.com/qhry1539](https://github.com/qhry1539))
 - 이상호
+
+### 서버 코드
+https://github.com/GitSeob/sleeplz-server.git
